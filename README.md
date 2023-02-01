@@ -12,5 +12,6 @@ Sur ce repository, il est possible de retrouver les dossiers suivants :
 - 02 Movie Reviews
 - 03 Vectorizer Tuning
 - 04 LDA
-Ceux-ci sont les 4 challenges, contenant chacun un csv et un notebook guidé
+Ceux-ci sont les 4 challenges, contenant chacun un csv et un notebook guidé.
+Le troisième possède également un autre notebook sur l'utilisation d'Azure, qui est encore en cours ...
 - 07 Text Analytics, permettant de basculer vers Azure
